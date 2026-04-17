@@ -10,9 +10,7 @@
 
 基于全新架构的 **学園アイドルマスター(学マス)** 小助手。图像技术 + 模拟控制 + 深度学习，解放双手！  
 由 [MaaFramework](https://github.com/MaaXYZ/MaaFramework) 强力驱动！
-
-✨ 如果喜欢 MaaGakumasu，欢迎在项目右上角点亮 Star 支持 ✨
-
+这个分支只是我个人的兴趣，尝试添加一下完全的自动打牌系统
 </div>
 
 <p align="center">
